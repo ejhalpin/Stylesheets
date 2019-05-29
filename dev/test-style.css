@@ -6,3 +6,10 @@ footer {
   align-items: center;
   justify-content: space-evenly;
 }
+
+h1 {
+  color: #660000;
+  background-color: #333;
+  border-radius: 10px;
+  border: groove 4px lightslategray;
+}
