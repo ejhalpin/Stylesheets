@@ -1,0 +1,25 @@
+/* group 2 app1.py - general syles for app1 across groups */
+
+/* buttons */
+
+#navPrev-button {
+}
+
+#navNext-button {
+}
+
+#refresh-button {
+}
+
+/* graphs */
+.graph-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.graph {
+  width: 40%;
+  padding: 0 10px;
+}

@@ -1,0 +1,62 @@
+/* graphicDef.py */
+/* General Notes: some buttons are wrapped in anchor-links. beware. */
+
+/* line 32 */
+#timeUnits-dropdown {
+  width: 90px;
+  background-color: yellow;
+  color: black;
+}
+
+/* line 48 */
+#group2-heading {
+  background-color: yellow;
+}
+#group2-refresh-button {
+  float: right;
+  margin-right: 10px;
+}
+
+#group2-label1 {
+  /* h3 */
+  background-color: black;
+  color: yellow;
+}
+
+/* line 59 */
+#group2-subheading {
+  /* a div that contains a dropdown and a label */
+}
+#subheading {
+  /* the sub heading for the app */
+}
+
+/* line 70 */
+#group2-banner {
+  /* the main header, which holds everything above */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+/* ^----- all above is header section--------^ */
+
+/* line 98 */
+#group2-nav {
+}
+
+#group2-prev-button {
+  width: 10%;
+  display: inline-block;
+}
+
+#group2-next-button {
+  width: 10%;
+  display: inline-block;
+}
+
+/* v------- all below is for graphs -------v */
+
+/* line 151 */
+/* ctrl+f comeback for bar chart styling */

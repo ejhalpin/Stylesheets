@@ -354,3 +354,6 @@ span {
   /* shadow-1 */
   box-shadow: 0px 6px 16px rgba(80, 103, 132, 0.165), 0px 2px 6px rgba(80, 103, 132, 0.12), 0px 0px 1px rgba(80, 103, 132, 0.32);
 }
+
+#page-content {
+}
