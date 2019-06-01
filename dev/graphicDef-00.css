@@ -1,6 +1,15 @@
 /* graphicDef.py */
 /* General Notes: some buttons are wrapped in anchor-links. beware. */
+html,
+body {
+  height: 100%;
+}
 
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
 /* line 32 */
 #timeUnits-dropdown {
   width: 90px;
